@@ -31,4 +31,5 @@ end
 	password_confirmation: "bar" }
 	assert_template 'users/edit'
 end
+
 end
