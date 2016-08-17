@@ -67,4 +67,4 @@ end
   redirect_to(root_url) unless @user == current_user?(@user)
 end
 end
-end
+
