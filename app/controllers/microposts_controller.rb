@@ -9,7 +9,7 @@ redirect_to root_url
 else
 render 'pages/home'
 end
-end
+  end
 
   def destroy
 
